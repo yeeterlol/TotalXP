@@ -1,2 +1,3 @@
 # TotalXP
-view total amount of xp you have got
+
+View the total amount of XP you currently have!
